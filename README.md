@@ -1,6 +1,6 @@
 # Research Call Tracker
 
-I write my own equity research (most recently a HOLD on Diploma plc) and wanted a
+I have recently been writing my own equity research and wanted a
 way to check whether my calls actually hold up over time. So I built this.
 
 It does three things:
@@ -18,7 +18,7 @@ account for time horizon or risk yet, which is the main thing I'd improve.
 
 ## How to run it
 
-You'll need Python installed. Then there are three one-time setup steps, after
+You will need to have Python installed. Then there are three one-time setup steps, after
 which you just run the scripts.
 
 **1. Install the libraries.** These handle the market data, the spreadsheet, the
