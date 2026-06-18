@@ -1,6 +1,6 @@
 # Research Call Tracker
 
-I have recently been writing a few equity research reports (most recently a HOLD on Diploma plc) and wanted a
+I have recently been writing a few equity research reports and wanted a
 way to check whether my calls actually hold up over time. So I built this.
 
 It does three things:
