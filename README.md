@@ -18,7 +18,7 @@ account for time horizon or risk yet, which is the main thing I'd improve.
 
 ## How to run it
 
-You will need to have Python installed. Then there are three one-time setup steps, after
+You will need to have Python installed (I used version 3.14 https://www.python.org/downloads/). Then there are three one-time setup steps, after
 which you just run the scripts.
 
 **1. Install the libraries.** These handle the market data, the spreadsheet, the
